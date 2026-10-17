@@ -1,5 +1,5 @@
 # HTML Master Study & Revision Guide
-> A complete, pedagogy-focused reference guide based on the *Future Fullstack* curriculum. Designed for students, self-learners, and instructors.
+> A complete, pedagogy-focused reference guide designed for students.
 
 ---
 
